@@ -1,0 +1,24 @@
+{
+    "name": "settimeout-sort",
+    "version": "1.0.1",
+    "description": "Best sort. Best complexity.",
+    "main": "setTimeoutSort.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aelzeiny/settimeout-sort.git"
+    },
+    "keywords": [
+        "sort",
+        "timeout",
+        "setTimeout"
+    ],
+    "author": "Ahmed Elzeiny",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/aelzeiny/settimeout-sort/issues"
+    },
+    "homepage": "https://github.com/aelzeiny/settimeout-sort#readme"
+}
